@@ -1,0 +1,377 @@
+m255
+K4
+z2
+Z0 !s12c _opt
+Z1 !s99 nomlopt
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+!s11f vlog 2024.1 2024.02, Feb  1 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim64_2024.1/examples
+T_opt
+!s110 1746447910
+V0m<A_B2nLdVFO`O9>zC?H1
+04 8 4 work FIFO_top fast 0
+=1-141333e8be2d-6818ae26-28e-3e74
+R1
+!s12f OEM100
+!s12b OEM100
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2024.1;79
+vFIFO
+2D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_after.sv
+Z3 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z4 !s110 1746447906
+!i10b 1
+!s100 lQ:Yc=O_0KA`9]eKBRfj80
+IEJACQ`DR7kW7BF4TWkDXI0
+S1
+Z5 dD:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT
+w1746442825
+8D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_after.sv
+FD:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_after.sv
+!i122 170
+L0 1 171
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OL;L;2024.1;79
+r1
+!s85 0
+31
+Z8 !s108 1746447906.000000
+!s107 D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_after.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_after.sv|
+!i113 0
+Z9 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@f@i@f@o
+XFIFO_coverage_pkg
+2D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_coverage_pkg.sv
+R3
+Z10 DXx4 work 20 FIFO_transaction_pkg 0 22 L6jHe[HoT;[7_;N;cn__01
+R4
+!i10b 1
+!s100 VKdHXiXK]?eF170ThXB0^2
+Ief@<cQbfZjGkTZI1YOkSa3
+S1
+R5
+w1746399575
+8D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_coverage_pkg.sv
+FD:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_coverage_pkg.sv
+!i122 171
+Z11 L0 2 0
+Vef@<cQbfZjGkTZI1YOkSa3
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_coverage_pkg.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_coverage_pkg.sv|
+!i113 0
+R9
+R2
+n@f@i@f@o_coverage_pkg
+YFIFO_if
+2D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_interface.sv
+R3
+R4
+!i10b 1
+!s100 J^DXgT@`S>^<JAWfJg;7T0
+IWg@0[NOBbf2`hdLOCDn_>3
+S1
+R5
+w1746405747
+8D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_interface.sv
+FD:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_interface.sv
+!i122 172
+Z12 L0 1 0
+R6
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_interface.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_interface.sv|
+!i113 0
+R9
+R2
+n@f@i@f@o_if
+vFIFO_monitor
+Z13 2D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/Monitor.sv
+R3
+Z14 DXx4 work 10 shared_pkg 0 22 Ke`IVaaIGG>i]Pi<SQKET2
+Z15 DXx4 work 20 FIFO_transaction_pkg 0 22 ^mGDn3k6mz5RIogJQd[gl1
+Z16 DXx4 work 17 FIFO_coverage_pkg 0 22 ef@<cQbfZjGkTZI1YOkSa3
+Z17 DXx4 work 19 FIFO_scoreboard_pkg 0 22 126=CdLL9C=_kjP7H`7LK1
+DXx4 work 15 Monitor_sv_unit 0 22 =e7ZT[TWl9HkCE]Ie_7GP0
+Z18 !s110 1746447907
+R6
+r1
+!s85 0
+!i10b 1
+!s100 jM82FM;bVR15Lg3BiV8I52
+IHHRK6]GD>XW23TIgf[JX92
+!s105 Monitor_sv_unit
+S1
+R5
+Z19 w1746221661
+Z20 8D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/Monitor.sv
+Z21 FD:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/Monitor.sv
+!i122 177
+L0 9 59
+R7
+31
+Z22 !s108 1746447907.000000
+Z23 !s107 D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/Monitor.sv|
+Z24 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/Monitor.sv|
+!i113 0
+R9
+R2
+n@f@i@f@o_monitor
+XFIFO_scoreboard_pkg
+2D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_scoreboard_pkg.sv
+R3
+R10
+R14
+R4
+!i10b 1
+!s100 R0MiVFSEe7l<iJHd8jgZG3
+I126=CdLL9C=_kjP7H`7LK1
+S1
+R5
+w1746444916
+8D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_scoreboard_pkg.sv
+FD:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_scoreboard_pkg.sv
+!i122 173
+R12
+V126=CdLL9C=_kjP7H`7LK1
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_scoreboard_pkg.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_scoreboard_pkg.sv|
+!i113 0
+R9
+R2
+n@f@i@f@o_scoreboard_pkg
+vFIFO_tb
+Z25 2D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_tb.sv
+R3
+R14
+R10
+DXx4 work 15 FIFO_tb_sv_unit 0 22 dKo5<@a;PCVZG4VnQ^[442
+R18
+R6
+r1
+!s85 0
+!i10b 1
+!s100 eD8Hjf8Ln4AI<?6iBm>2N2
+ICc]TPl7ldHlCB>S^gV]E<0
+!s105 FIFO_tb_sv_unit
+S1
+R5
+Z26 w1746221627
+Z27 8D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_tb.sv
+Z28 FD:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_tb.sv
+!i122 174
+L0 5 61
+R7
+31
+R22
+Z29 !s107 D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_tb.sv|
+Z30 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_tb.sv|
+!i113 0
+R9
+R2
+n@f@i@f@o_tb
+XFIFO_tb202d20Copy_sv_unit
+2D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_tb - Copy.sv
+R3
+DXx4 work 10 shared_pkg 0 22 <>^je:32Z^1a`KXlo`0z61
+R15
+!s110 1746413183
+VJWgdk=UVFSd50cl:hjjSE0
+r1
+!s85 0
+!i10b 1
+!s100 i[A?oCo00hYD2RzJ1TZe`0
+IJWgdk=UVFSd50cl:hjjSE0
+!i103 1
+S1
+R5
+R26
+8D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_tb - Copy.sv
+FD:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_tb - Copy.sv
+!i122 105
+R12
+R7
+31
+!s108 1746413183.000000
+!s107 D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_tb - Copy.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_tb - Copy.sv|
+!i113 0
+R9
+R2
+n@f@i@f@o_tb202d20@copy_sv_unit
+XFIFO_tb_sv_unit
+R25
+R3
+R14
+R10
+R18
+VdKo5<@a;PCVZG4VnQ^[442
+r1
+!s85 0
+!i10b 1
+!s100 jHkVbzK;gd5ERgURCa4bA1
+IdKo5<@a;PCVZG4VnQ^[442
+!i103 1
+S1
+R5
+R26
+R27
+R28
+!i122 174
+R12
+R7
+31
+R22
+R29
+R30
+!i113 0
+R9
+R2
+n@f@i@f@o_tb_sv_unit
+vFIFO_top
+2D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_top.sv
+R3
+R18
+!i10b 1
+!s100 <mMz^b^FJZdzAl771]Rzc3
+I_<ziSRbdj=_>K<[4ac3:Q0
+S1
+R5
+w1746446351
+8D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_top.sv
+FD:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_top.sv
+!i122 175
+L0 1 14
+R6
+R7
+r1
+!s85 0
+31
+R22
+!s107 D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_top.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_top.sv|
+!i113 0
+R9
+R2
+n@f@i@f@o_top
+XFIFO_transaction_pkg
+2D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_transaction_pkg.sv
+R3
+R18
+!i10b 1
+!s100 [J2`<]6P3nRUAj>Z3^9SR1
+I^mGDn3k6mz5RIogJQd[gl1
+S1
+R5
+w1746398044
+8D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_transaction_pkg.sv
+FD:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_transaction_pkg.sv
+!i122 176
+R12
+V^mGDn3k6mz5RIogJQd[gl1
+R7
+r1
+!s85 0
+31
+R22
+!s107 D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_transaction_pkg.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/FIFO_transaction_pkg.sv|
+!i113 0
+R9
+R2
+n@f@i@f@o_transaction_pkg
+XMonitor_sv_unit
+R13
+R3
+R14
+R15
+R16
+R17
+R18
+V=e7ZT[TWl9HkCE]Ie_7GP0
+r1
+!s85 0
+!i10b 1
+!s100 ?hVHDiJQA;:L6@OnZ[_z[1
+I=e7ZT[TWl9HkCE]Ie_7GP0
+!i103 1
+S1
+R5
+R19
+R20
+R21
+!i122 177
+R12
+R7
+31
+R22
+R23
+R24
+!i113 0
+R9
+R2
+n@monitor_sv_unit
+Xshared_pkg
+2D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/SHARED_pkg.sv
+R3
+R18
+!i10b 1
+!s100 @V90EbdK]JVz<jl>i;MnI0
+I<>^je:32Z^1a`KXlo`0z61
+S1
+R5
+w1746396771
+8D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/SHARED_pkg.sv
+FD:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/SHARED_pkg.sv
+!i122 178
+R11
+V<>^je:32Z^1a`KXlo`0z61
+R7
+r1
+!s85 0
+31
+R22
+!s107 D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/SHARED_pkg.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Digital Verfication debloma/Projects/project1(FIFO)/FIFI_PROJECT/SHARED_pkg.sv|
+!i113 0
+R9
+R2
